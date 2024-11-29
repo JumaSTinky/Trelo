@@ -6,11 +6,11 @@ import SignIn from "../pages/SignIn";
 export const router = createBrowserRouter([
   {
     path: "/",
-    element: <Layout />,
+    element: <SignIn />,
     children: [
       {
         path: "main",
-        element: <Main/>,
+        element: <Main />,
       },
       {
         path: "signin",
