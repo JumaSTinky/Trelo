@@ -65,7 +65,7 @@ const HeaderInput = styled.input`
   border-radius: 5px;
   border: 1px solid #656c77;
   padding-left: 15px;
-  margin: -55px 0px 0px 75%;
+  margin: -30px 0px 0px 75%;
   background-color: #1d2025;
 `;
 
